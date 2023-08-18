@@ -1,0 +1,223 @@
+
+
+[
+
+    {
+          
+       "organic phase": {
+          "extractants": [
+              {"identity": "2,2':6',2''-terpyridine", "concentration": {"quantity": 0.02 , "unit": "M"}}],
+     
+    
+              "solvents": [
+              {"identity": "alpha-bromodecanoic acid", "volfraction": ".5"},
+              {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": ".5" }],
+    
+    
+          "volume": {"quantity": 800, "unit": "μL"}
+      },
+     
+       "aqueous phase": {
+          "solutes": [
+              {"identity": "HNO3", "concentration": {"quantity": 0.03, "unit": "M"}}
+             ],
+    
+    
+              "pH": "",
+          "volume": {"quantity": 800, "unit": "μL"}
+      },  
+     
+      "reaction conditions": {
+          "temperature": {"quantity": 298, "unit": "K"},
+          "time": {"quantity": 30, "unit": "minutes"}
+      },
+     
+      "metals":[
+          {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 2.8, "quantification method":"Gamma"},
+          {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 27.00 , "quantification method":"Gamma"} ],
+     
+      "observations":{
+          "third phase": false,
+          "comment": "Table 2, L1, point 1, of Boubals Paper, Page 57, pH values missing"},
+     
+       "provenance": {
+          "doi": "10.1039/b104181a",  
+          "attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"},
+     
+      "record creation": {
+          "time": "2023-07-17:17:00:00+0",
+          "username": "Ranulph694",   
+          "name": "Ranulph Mayas",
+          "email": "rmayas@fordham.edu",  
+          "organization": "Fordham University"
+      }
+    
+    
+      },
+     
+    {
+          
+       "organic phase": {
+          "extractants": [
+              {"identity": "2,2':6',2''-terpyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],
+    
+    
+              "solvents": [
+              {"identity": "alpha-bromodecanoic acid", "volfraction": ".5"},
+              {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": ".5" }],
+    
+    
+          "volume": {"quantity": 800, "unit": "μL"}
+      },
+     
+       "aqueous phase": {
+          "solutes": [
+              {"identity": "HNO3", "concentration": {"quantity": 0.05, "unit": "M"}}
+             ],
+    
+    
+              "pH": "",
+          "volume": {"quantity": 800, "unit": "μL"}
+      },  
+     
+      "reaction conditions": {
+          "temperature": {"quantity": 298, "unit": "K"},
+          "time": {"quantity": 30, "unit": "minutes"}
+      },
+     
+      "metals":[
+          {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.3, "quantification method":"Gamma"},
+          {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 3.5 , "quantification method":"Gamma"} ],
+     
+      "observations":{
+          "third phase": false,
+          "comment": "Table 2, L1, point 2, of Boubals Paper, Page 57, pH values missing"},
+     
+       "provenance": {
+          "doi": "10.1039/b104181a",  
+          "attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"},
+     
+      "record creation": {
+          "time": "2023-07-17:17:00:00+0",
+          "username": "Ranulph694",   
+          "name": "Ranulph Mayas",
+          "email": "rmayas@fordham.edu",  
+          "organization": "Fordham University"
+      }
+    
+    
+      },
+    
+    
+    
+    
+    {
+          
+       "organic phase": {
+          "extractants": [
+              {"identity": "2,2':6',2''-terpyridine", "concentration": {"quantity": 0.02 , "unit": "M"}}],
+    
+    
+              "solvents": [
+              {"identity": "alpha-bromodecanoic acid", "volfraction": ".5"},
+              {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": ".5" }],
+    
+    
+          "volume": {"quantity": 800, "unit": "μL"}
+      },
+     
+       "aqueous phase": {
+          "solutes": [
+              {"identity": "HNO3", "concentration": {"quantity": 0.08, "unit": "M"}}
+             ],
+    
+    
+              "pH": "",
+          "volume": {"quantity": 800, "unit": "μL"}
+      },  
+     
+      "reaction conditions": {
+          "temperature": {"quantity": 298, "unit": "K"},
+          "time": {"quantity": 30, "unit": "minutes"}
+      },
+     
+      "metals":[
+          {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.09, "quantification method":"Gamma"},
+          {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.8 , "quantification method":"Gamma"} ],
+     
+      "observations":{
+          "third phase": false,
+          "comment": "Table 2, L1, point 3, of Boubals Paper, Page 57, pH values missing"},
+     
+       "provenance": {
+          "doi": "10.1039/b104181a",  
+          "attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"},
+     
+      "record creation": {
+          "time": "2023-07-17:17:00:00+0",
+          "username": "Ranulph694",   
+          "name": "Ranulph Mayas",
+          "email": "rmayas@fordham.edu",  
+          "organization": "Fordham University"
+      }
+    
+    
+      },
+    
+    
+    
+    
+    {
+          
+       "organic phase": {
+          "extractants": [
+              {"identity": "2,2':6',2''-terpyridine", "concentration": {"quantity": 0.02, "unit": "M"}}],
+    
+    
+              "solvents": [
+              {"identity": "alpha-bromodecanoic acid", "volfraction": ".5"},
+              {"identity": "hydrogenated tetrapropane (TPH)", "volfraction": ".5" }],
+    
+    
+          "volume": {"quantity": 800, "unit": "μL"}
+      },
+     
+       "aqueous phase": {
+          "solutes": [
+              {"identity": "HNO3", "concentration": {"quantity": 0.11, "unit": "M"}}
+             ],
+    
+    
+              "pH": "",
+          "volume": {"quantity": 800, "unit": "μL"}
+      },  
+     
+      "reaction conditions": {
+          "temperature": {"quantity": 298, "unit": "K"},
+          "time": {"quantity": 30, "unit": "minutes"}
+      },
+     
+      "metals":[
+          {"identity": "Eu(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.03, "quantification method":"Gamma"},
+          {"identity": "Am(III)", "initial concentration": {"quantity": "MISSING", "unit": "M"}, "D": 0.3 , "quantification method":"Gamma"} ],
+     
+      "observations":{
+          "third phase": false,
+          "comment": "Table 2, L1, point 4, of Boubals Paper, Page 57, pH values missing"},
+     
+       "provenance": {
+          "doi": "10.1039/b104181a",  
+          "attached_file": "//\\Relevant Research Papers\\LANL_Ligand_Research_Papers\\Boubals et al. - 2002 - Americium(III) and europium(III) solvent extraction"},
+     
+      "record creation": {
+          "time": "2023-07-17:17:00:00+0",
+          "username": "Ranulph694",   
+          "name": "Ranulph Mayas",
+          "email": "rmayas@fordham.edu",  
+          "organization": "Fordham University"
+      }
+    
+    
+      }
+    ]
+    

@@ -54,24 +54,17 @@ def alpha(file_name):
 
     for record in filtered_data:
         
-        if (isinstance(record['pH'], int, float)):
-
-            pH = np.array("pH", dtype=float)
+        if (isinstance(record['pH'], int) or isinstance(record['pH'], float)): 
             
-            print(f"pH is present and valid, pH is {pH}.")
+            print(f"pH is present and valid, pH is {record['pH']}.")
 
             
         else:
             
             print("pH is not int. Here are the solutes:", record['solutes'])
-
-            solutes = np.array("pH", dtype=float)
-
-            h3o = -math.log10(pH)
-
-            return h3o
-
-
+            for solute in record['solutes']:
+                if (solute['identity'] == 'HNO3'):
+                    print('The pH is', -math.log10(solute['concentration']['quantity']))
 
         
-alpha("all_TPEN_DERIVATIVE_records.json")
+alpha("testwithoutPh.json")

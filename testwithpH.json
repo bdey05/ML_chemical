@@ -1,0 +1,562 @@
+[{
+    "organic phase": {
+        "extractants": [
+            {"identity": "c-tpcn", "concentration": {"quantity": 0.001, "unit": "M"}}],
+         "solvents": [
+            {"identity": "1-octanol", "volfraction": 1.0}]
+            , "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+    
+     "aqueous phase": {
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+    
+        "pH": 4.75,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+    
+    "metals":[
+            {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 4.3e-3, "quantification method":"gamma"},
+            {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 2.4e-3, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+    
+     "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+    
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "t-tpcn", "concentration": {"quantity": 0.001, "unit": "M"}}],
+    
+        "solvents": [
+            {"identity": "1-octanol", "volfraction": 1.0}]
+            , "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+        
+            "pH": 3.49,
+            "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },  
+
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 1.4e-4, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 8.8e-5, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+        
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+        
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "t-tpcn", "concentration": {"quantity": 0.001, "unit": "M"}}],
+        
+        "solvents": [
+            {"identity": "1-octanol", "volfraction": 1.0}],
+                "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+            
+    "aqueous phase": {
+        "solutes": [
+            {"identity": ["Ammonium Nitrate", "InChI=1S/NO3.H3N/c2-1(3)4,/h,1H3/q-1,/p+1"], "concentration": {"quantity": 0.1, "unit": "M"}}],
+            
+        "pH": 4.64,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+            
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+            
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 1.7e-3, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 7.1e-4, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+            
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+            
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"   
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity": "t-tpcn", "concentration": {"quantity": 0.001, "unit": "M"}}],
+            
+        "solvents": [
+            {"identity": "1-octanol", "volfraction": 1.0}],
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                
+    "aqueous phase": {
+            
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+                
+        "pH": 5.63,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+                },
+                
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 2.2e-2, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 0.001, "unit": "M"}, "D": 6.1e-3, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"   
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"tpdben", "concentration": {"quantity": 0.01, "unit": "M"}}],
+
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}],
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                    
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+
+        "pH": 4.62,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                    
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 8.0e-4, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 1.4e-4, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                    
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                    
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"tpdben", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}], 
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                    
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 1.0, "unit": "M"}}],
+                    
+        "pH": 4.51,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                    
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 3.8e-3, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 5.0e-4, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                    
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",		
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                    
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"  
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"tpdben", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                    
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}],
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                        
+    "aqueous phase": {
+                    
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 3.0, "unit": "M"}}],
+                        
+        "pH": 4.53,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                        
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                        
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 1.8e-2, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 1.1e-3, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                        
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                        
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"tpdben", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                        
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}], 
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                            
+    "aqueous phase": {
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 3.0, "unit": "M"}}],
+                            
+        "pH": 4.08,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                            
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                            
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 8.0e-3, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 7.1e-4, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                            
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                            
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+    }
+                        
+},
+{
+    "organic phase": {
+        "extractants":[
+            {"identity":"tpdben", "concentration": {"quantity": 0.01, "unit": "M"}}],
+                            
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}], 
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                                
+    "aqueous phase": {
+                            
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 3.0, "unit": "M"}}],
+                                
+        "pH": 5.06,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                                
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                                
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 8.9e-2, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 2.6e-3, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                                
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                                
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"TPEN", "concentration": {"quantity": 0.001, "unit": "M"}}],
+                        
+        "solvents": [
+            {"identity": "1-octanol", "volfraction": 1.0}], 
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                            
+    "aqueous phase": {
+                        
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+                            
+        "pH": 4.58,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                            
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                            
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 1.0e-2, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 4.3e-4, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                            
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                            
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University" 
+    }
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"TPEN", "concentration": {"quantity": 0.001, "unit": "M"}}],
+                            
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}],
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                                
+    "aqueous phase": {
+                            
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+                                
+        "pH": 4.16,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                                
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                                
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 2.0e0, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 9.9e-3, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                                
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                                
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"
+    }
+                            
+},
+{
+    "organic phase": {
+        "extractants": [
+            {"identity":"TPEN", "concentration": {"quantity": 0.001, "unit": "M"}}],
+                                
+        "solvents": [
+            {"identity": "NITROBENZENE", "volfraction": 1.0}],
+            "volume": {"quantity": 2.5, "unit": "milliliter"}
+    },
+                                    
+    "aqueous phase": {
+                                
+        "solutes": [
+            {"identity": "Ammonium Nitrate", "concentration": {"quantity": 0.1, "unit": "M"}}],
+                                    
+        "pH": 5.15,
+        "volume": {"quantity": 1.0, "unit": "milliliter"}
+    },   
+                                    
+    "reaction conditions": {
+        "temperature": {"quantity": 298, "unit": "K"},
+        "shake rate": {"quantity": 2500, "unit": "RPM"},
+        "time": {"quantity": 300, "unit": "seconds"}
+    },
+                                    
+    "metals":[
+        {"identity": "Am(III)", "isotope": 241, "initial concentration": {"quantity": 200, "unit": "kBq/ml"}, "D": 1.5e1, "quantification method":"gamma"},
+        {"identity": "Eu(III)", "isotope": 152, "initial concentration": {"quantity": 1250, "unit": "kBq/ml"}, "D": 3.3e-1, "quantification method":"gamma"}],
+
+    "observations": {
+        "third phase": false,
+        "comment": "Look at table 1 on Matsumura paper, Isotopes & concentrations are stated in p. 825-826"},
+                                    
+    "provenance": {
+        "doi": "10.1080/18811248.2006.9711167",	
+        "publication_url": "https://www.tandfonline.com/loi/tnst20",
+        "attached_file": "...\\RELEVANT RESEARCH PAPERS\\LANL_Ligand_Research_Papers\\MATSUMURA and TAKESHITA - 2006 - Extraction Behavior of Am(III) from Eu(III) with H.pdf"},
+                                    
+    "record creation": {
+        "time": "2023-03-31:00:00:00+0",
+        "username": "vkaramalis",	
+        "name": "Victor Karamalis",	
+        "email": "vkaramalis@fordham.edu",	
+        "orcid": "0000-0002-9596-9919", 	
+        "organization": "Fordham University"   
+    }
+}]                            
+                            
+                    
